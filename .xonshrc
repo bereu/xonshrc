@@ -1,0 +1,6 @@
+aliases["ga"] = "git add"
+aliases["gc"] = "git commit"
+aliases["gp"] = "git push"
+aliases["gpu"] = "git pull"
+aliases["gcl"] = "git clone"
+aliases["gb"] = "git branch"
